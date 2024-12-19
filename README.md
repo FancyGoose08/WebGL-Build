@@ -17,11 +17,11 @@ Feel free to use this to jump around this ReadMe
 
 [Controls](#Controls)
 
-[Future Improvements](#Future)
+[Future Improvements](#Future-Improvements)
 
-[Problems and Solutions](#Problems)
+[Problems and Solutions](#Problems-and-Solutions)
 
-[Authors and Acknowledgement](#Authors)
+[Authors and Acknowledgements](#Authors-and-Acknowledgements)
 
 # Description
 
@@ -41,5 +41,5 @@ Feel free to use this to jump around this ReadMe
 
 # Problems and Solutions
 
-# Authors and acknowledgement
+# Authors and acknowledgements
 

@@ -47,6 +47,18 @@ Feel free to look at all of the code [here](https://github.com/FancyGoose08/Vill
 
 # Controls
 
+[1] - Boulder
+
+[2] - Trident
+
+[3] - Tomato
+
+[4] - Bomb
+
+Reset the scene with [R]
+
+Open and close the controls menu with [Esc]
+
 # Future Improvements
 
 It is obvious that there are improvements that could be made to make this game look better, feel better, and play better. 
